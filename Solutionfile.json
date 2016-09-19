@@ -16,5 +16,5 @@
             "timer": "event_handler/timer.lua"
         }
     },
-    "cors": {"credentials":true,"headers":["Cookie","Authorization"],"origin":["http://localhost:*"]}
+    "cors": {"origin": ["http://localhost:*"]}
 }
